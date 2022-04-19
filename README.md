@@ -201,7 +201,7 @@ All rights reserved by Maruf Alam @2022
 <!-- Links section starts here -->
 
 [website]: http://www.marufalam.com/
-[gmail]: http://www.gmail.com/marufalam120
+[gmail]: https://mail.google.com/mail/ca/u/0/#inbox/141b796e773c4f19
 [youtube]: https://www.youtube.com/c/MarufAlamPorosh/
 [facebook]: https://www.facebook.com/marufalam.porosh.90/
 [linkedin]: https://www.linkedin.com/in/devmarufalam/
