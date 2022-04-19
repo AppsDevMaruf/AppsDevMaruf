@@ -59,7 +59,8 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 
 <img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />
-<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/stack_overflow.png" />
+
+<img align="left" alt="Stack OverFlow" title="Stack OverFlow" width="45" hspace="5" src="./images/stack_overflow.png" />
 
 <img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />
 
@@ -72,23 +73,25 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 #### Other Skills & Videos:
 
-<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />
+<img align="left" alt="c" title="c " width="45" hspace="5" src="./images/c.svg" />
+<img align="left" alt="Python" title="cPython " width="45" hspace="5" src="./images/python.svg" />
 
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/python.svg" />
 
-<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/filmora.png" />
+<img align="left" alt="Filmora" title="Filmora" width="45" hspace="5" src="./images/filmora.png" />
 
 <img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/figma.png" />
+
 <img align="left" alt="XD" title="XD" width="45" hspace="5" src="./images/xd.png" />
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/premiere-pro.png" />
+
+<img align="left" alt="Adobe Premiere pro" title="Adobe Premiere pro" width="45" hspace="5" src="./images/premiere-pro.png" />
 
 <br/>
 <br/>
 <br/>
 
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/word.png" />
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/powerpoint.png" />
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/excel.png" />
+<img align="left" alt="Word" title="Word" width="45" hspace="5" src="./images/word.png" />
+<img align="left" alt="Powerpoint" title="Powerpoint" width="45" hspace="5" src="./images/powerpoint.png" />
+<img align="left" alt="Excel" title="Excel" width="45" hspace="5" src="./images/excel.png" />
 
   <!-- other skills and my videos for computer science section ends here  -->
 
@@ -173,12 +176,12 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 ### 🏅Licenses & Certifications :
 
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/creative.png" />
+<img align="left" alt="Createive IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
 - Android Application Development - Creative It 
 <br />
 <br />
 <br />
-<img align="left" alt="Figma" title="Figma" width="45" hspace="5" src="./images/pencilbox.png" />
+<img align="left" alt="PencilBox" title="PencilBox" width="45" hspace="5" src="./images/pencilbox.png" />
 -Professional Android Application Development - PencilBox Training Institute
 
 ---
