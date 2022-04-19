@@ -5,9 +5,13 @@
 <h1> 👋 Hello, I'm Maruf Alam </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
+-
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/AppsDevMaruf" aria-label="Follow @AppsDevMaruf on GitHub">AppsDevMaruf</a>
 
 I am a Mobile Application Developer And Content Creator  
-🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229
+🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229 <br/>
+📫 How to reach me **marufalam120@gmail.com**
 
 <!-- Contact me section starts here  -->
 
