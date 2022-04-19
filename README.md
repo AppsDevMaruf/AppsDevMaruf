@@ -3,7 +3,7 @@
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Maruf Alam </h1>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
 
 I am a Mobile Application Developer And Content Creator  
@@ -101,11 +101,11 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 <!-- github stats starts here  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marufalam120)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppsDevMaruf)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marufalam120&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf&show_icons=true)
 
 <br/>
 
