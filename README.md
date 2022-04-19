@@ -11,10 +11,11 @@
 
 I am a Mobile Application Developer And Content Creator  
 🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229 <br/>
-📫 How to reach me **marufalam120@gmail.com**
+### 📫 &nbsp;  How To Reach Me **marufalam120@gmail.com**
 
 <!-- Contact me section starts here  -->
 
+[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
