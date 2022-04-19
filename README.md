@@ -84,11 +84,9 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 <img align="left" alt="XD" title="XD" width="45" hspace="5" src="./images/xd.png" />
 
 <img align="left" alt="Adobe Premiere pro" title="Adobe Premiere pro" width="45" hspace="5" src="./images/premiere-pro.png" />
-
 <br/>
 <br/>
 <br/>
-
 <img align="left" alt="Word" title="Word" width="45" hspace="5" src="./images/word.png" />
 <img align="left" alt="Powerpoint" title="Powerpoint" width="45" hspace="5" src="./images/powerpoint.png" />
 <img align="left" alt="Excel" title="Excel" width="45" hspace="5" src="./images/excel.png" />
@@ -178,7 +176,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 <img align="left" alt="Createive IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
 - Android Application Development - Creative It 
-<br />
+
 <br />
 <br />
 <img align="left" alt="PencilBox" title="PencilBox" width="45" hspace="5" src="./images/pencilbox.png" />
