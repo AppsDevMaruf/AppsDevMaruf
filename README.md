@@ -3,7 +3,8 @@
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Maruf Alam </h1>
-![counter](https:/AppsDevMaruf/.m.pipedream.net)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
 
 I am a Mobile Application Developer And Content Creator  
 🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229
