@@ -16,7 +16,7 @@ I am a Mobile Application Developer And Content Creator
 <!-- Contact me section starts here  -->
 
 [<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
+[<img align="left" alt="website" title="Gmail" width="45" hspace="5" src="./images/gmail.svg" />][gmail]
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
@@ -201,6 +201,7 @@ All rights reserved by Maruf Alam @2022
 <!-- Links section starts here -->
 
 [website]: http://www.marufalam.com/
+[gmail]: http://www.gmail.com/marufalam120
 [youtube]: https://www.youtube.com/c/MarufAlamPorosh/
 [facebook]: https://www.facebook.com/marufalam.porosh.90/
 [linkedin]: https://www.linkedin.com/in/devmarufalam/
