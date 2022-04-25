@@ -217,4 +217,4 @@ All rights reserved by Maruf Alam @2022
 
 <!-- Links section ends here -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AppsDevMaruf&repo=github-readme-stats)](https://github.com/AppsDevMaruf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppsDevMaruf&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
