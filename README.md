@@ -216,3 +216,5 @@ All rights reserved by Maruf Alam @2022
 <!-- cse related playlists ends here  -->
 
 <!-- Links section ends here -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf&show_icons=true)
