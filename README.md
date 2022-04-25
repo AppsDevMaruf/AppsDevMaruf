@@ -1,15 +1,12 @@
 <!-- banner image starts here  -->
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Maruf Alam </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
--
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/AppsDevMaruf" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @AppsDevMaruf on GitHub">Follow @AppsDevMaruf</a>
