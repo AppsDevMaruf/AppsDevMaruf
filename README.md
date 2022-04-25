@@ -6,8 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AppsDevMaruf&label=Profile%20views&color=129e00&style=plastic" alt="AppsDevMaruf"/> </p>
 -
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/AppsDevMaruf" aria-label="Follow @AppsDevMaruf on GitHub">AppsDevMaruf</a>
+<a class="github-button" href="https://github.com/AppsDevMaruf" data-color-scheme="no-preference: light_high_contrast; light: dark; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @AppsDevMaruf on GitHub">Follow @AppsDevMaruf</a>
 
 I am a Mobile Application Developer And Content Creator  
 🏠 &nbsp; Living: Bashundhara RA, Dhaka-1229 <br/>
@@ -217,6 +220,5 @@ All rights reserved by Maruf Alam @2022
 
 <!-- Links section ends here -->
 
-<a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
