@@ -217,4 +217,3 @@ All rights reserved by Maruf Alam @2022
 
 <!-- Links section ends here -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppsDevMaruf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
