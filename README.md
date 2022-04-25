@@ -217,4 +217,4 @@ All rights reserved by Maruf Alam @2022
 
 <!-- Links section ends here -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppsDevMaruf&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AppsDevMaruf&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
