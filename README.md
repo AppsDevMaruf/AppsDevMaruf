@@ -121,7 +121,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
  
 ### 🎬 &nbsp; Apps Presentation
 [![Watch the video](https://i.im.ge/2022/06/04/rWo83q.th.png)](https://youtu.be/ohZEJSM6gwA)
-[![Krisok Bhai](https://i.im.ge/2022/06/12/rHp2oD.png)](https://www.youtube.com/watch?v=kwI8aDPIAOI)
+[![Krisok Bhai](https://i.im.ge/2022/06/12/rHp2oD.png)](https://www.youtube.com/watch?v=K-_3vI1bYaM)
 
 
 ↪️ &nbsp; [search more videos...](https://www.youtube.com/c/MarufAlamPorosh/l)
