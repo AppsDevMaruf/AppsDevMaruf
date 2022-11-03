@@ -139,7 +139,8 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 | Position            | Institute                                   | Duration            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Android developer   | Hamdard University Bangladesh | On Going | Dhaka, Bangladesh |
+| Android developer   | Hamdard University Bangladesh | 4 Months | Dhaka, Bangladesh |
+| Android developer   | Tiger Soft BD | On Going | Gulsan 1,Dhaka, Bangladesh |
 
 
 <br />
