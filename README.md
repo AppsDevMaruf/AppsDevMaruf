@@ -188,9 +188,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 ### 🏅Licenses & Certifications :
 
 <img align="left" alt="Createive IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
-- Android Application Development - Creative It 
-<br />
-<br />
+- Android Application Development - Creative It<br />
 <img align="left" alt="PencilBox" title="PencilBox" width="45" hspace="5" src="./images/pencilbox.png" />
 -Professional Android Application Development - PencilBox Training Institute
 
