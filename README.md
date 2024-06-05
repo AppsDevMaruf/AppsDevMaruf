@@ -132,16 +132,19 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 <!-- latest youtube videos ends here -->
 
-<!-- other skills and my videos for computer science section starts here  -->
+<!-- other skills and my videos for the computer science section start here  -->
 
 <!-- work experience section starts here  -->
 
 ### 💼 &nbsp; Employment History
 
-| Position            | Institute                                   | Duration            | Location           |
+| Position            | Institute                                   | Job Type            | Location           |
 | ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Android developer   | Hamdard University Bangladesh | 4 Months | Dhaka, Bangladesh |
-| Android developer   | Tiger Soft BD | On Going | Gulsan 1,Dhaka, Bangladesh |
+| Android developer   | Hamdard University Bangladesh | Contractual | Dhaka, Bangladesh |
+| Android developer   | Tiger Soft BD | Full Time | Gulsan 1,Dhaka, Bangladesh |
+| Android developer   | Creative IT Institute | Part Time | Momtaz Plaza (4th floor), House#7, Road#4 Opposite of Labaid Hospital Dhaka, 1205 |
+| Software Engineer (Android)| Easital Technologies Ltd  | Full Time | Momtaz Plaza (4th floor), House#7, Road#4 Opposite of Labaid Hospital Dhaka, 1205 |
+| Software Engineer (Android)| Syntax Solution Limited | Full Time | Gulshan 2, Dhaka, Bangladesh |
 
 
 <br />
@@ -154,7 +157,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
    Daffodil International University
      Dhaka, Bangladesh.
 3. Higher Secondary Certificate (HSC)  
-    Khilgaon,Dhaka-1219  
+    Khilgaon, Dhaka-1219  
  
 
 <br />
@@ -165,9 +168,9 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 ### Languages:
 
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Communication
-- 🇮🇳 Hindi : Intermediate
+- 🇧🇩 Bangla: Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English: Communication
+- 🇮🇳 Hindi: Intermediate
   <br />
 
 <!-- my languages section ends here  -->
@@ -188,7 +191,7 @@ Hi guys! This is me Maruf Alam Porosh. I am an experienced Mobile Application De
 
 ### 🏅Licenses & Certifications :
 
-<img align="left" alt="Createive IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
+<img align="left" alt="Creative IT" title="FigCreateive ITma" width="45" hspace="5" src="./images/creative.png" />
 - Android Application Development - Creative It<br />
 <img align="left" alt="PencilBox" title="PencilBox" width="45" hspace="5" src="./images/pencilbox.png" />
 -Professional Android Application Development - PencilBox Training Institute
