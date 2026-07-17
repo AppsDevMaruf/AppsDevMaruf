@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0F766E,100:22C55E&text=Maruf%20Alam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%204%2B%20Years%20%E2%80%A2%20Kotlin%20%26%20Java&descAlignY=60&descSize=18&animation=fadeIn" alt="Maruf Alam — Android Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0F766E,100:22C55E&text=Maruf%20Alam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%204%2B%20Years%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Java&descAlignY=60&descSize=18&animation=fadeIn" alt="Maruf Alam — Android Developer" />
 
 <p>
   <a href="https://appsdevmaruf.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
