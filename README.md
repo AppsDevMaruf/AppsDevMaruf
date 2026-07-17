@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0F766E,100:22C55E&text=Maruf%20Alam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Android%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Jetpack%20Compose&descAlignY=60&descSize=18&animation=fadeIn" alt="Maruf Alam — Android Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0F766E,100:22C55E&text=Maruf%20Alam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Android%20Developer%20%E2%80%A2%204%2B%20Years%20%E2%80%A2%20Kotlin%20%26%20Java&descAlignY=60&descSize=18&animation=fadeIn" alt="Maruf Alam — Android Developer" />
 
 <p>
   <a href="https://appsdevmaruf.github.io/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -15,13 +15,13 @@
 
 ## Hello, I'm Maruf 👋
 
-I build polished, reliable Android products with **Kotlin**, **Jetpack Compose**, and modern Android architecture. Based in Dhaka, Bangladesh, I enjoy turning real-world problems into simple mobile experiences—and sharing what I learn with the developer community.
+I am an **Android Developer with 4+ years of professional experience**, building mobile products with Java, Kotlin, API integrations, and modern Android tooling. My work spans eCommerce, ride-sharing, fintech, on-demand services, and collaboration platforms.
 
-- 📱 Building modern Android apps from idea to release
-- 🧩 Focused on clean architecture, thoughtful UI, and maintainable code
-- 🌱 Currently building **BD Tax Calculator** with Compose and Material 3
-- 🎥 Creating practical mobile-development content
-- 💬 Open to Android opportunities, collaborations, and product ideas
+- 💼 Software Engineer (Android) at **Nasir Syntax Solution Ltd (Nasir Group)**
+- 🛍️ Building **Decoraan**, an eCommerce experience for home decor, interiors, and furniture
+- 🚕 Contributing to **Hop On**, a ride-sharing platform for rides, parcels, and food delivery
+- 🧩 Focused on user-friendly interfaces, API integration, debugging, and performance optimization
+- 📍 Based in Dhaka, Bangladesh
 
 ## Tech stack
 
@@ -37,7 +37,26 @@ I build polished, reliable Android products with **Kotlin**, **Jetpack Compose**
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Coroutines" />
 </p>
 
-## Selected work
+## Professional experience
+
+| Period | Role | Organization |
+| :--- | :--- | :--- |
+| Jul 2024 - Present | Software Engineer (Android) | **Nasir Syntax Solution Ltd (Nasir Group)** |
+| Sep 2023 - Jun 2024 | Software Engineer (Android) | Easital Technologies Ltd |
+| Aug 2022 - Sep 2023 | Android Developer | Tiger Soft BD |
+| Aug 2023 - Dec 2023 | Android Apps Developer (Mentor) · Part-time contract | Creative IT |
+| Feb 2022 - Aug 2022 | Android Apps Developer (Trainer) · Part-time contract | Hamdard University Bangladesh |
+
+## Current product work
+
+| Product | Focus | Since |
+| :--- | :--- | :--- |
+| **Hop On** | Ride booking, parcel delivery, food ordering, real-time driver tracking, and in-app navigation | Feb 2025 |
+| **Decoraan** | eCommerce for curated home decor, interior-design products, and furniture | Jul 2024 |
+
+Previous product experience includes **Beeda** (AI-powered on-demand mega app), **Decise** (project management and collaboration), **FamaPay** (fintech and payments), and **DUFA** (alumni communication platform).
+
+## Selected open-source work
 
 | Project | What it demonstrates | Stack |
 | :--- | :--- | :--- |
@@ -49,6 +68,12 @@ I build polished, reliable Android products with **Kotlin**, **Jetpack Compose**
 <div align="center">
   <a href="https://github.com/AppsDevMaruf?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </div>
+
+## Education & certifications
+
+- 🎓 **B.Sc. in Computer Science and Engineering**, Daffodil International University — CGPA 3.63/4.00
+- 📜 Mobile Application Development — PencilBox Training Institute
+- 📜 Android Application Development — Creative IT Institute
 
 ## GitHub at a glance
 
